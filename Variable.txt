@@ -1,0 +1,6 @@
+JavaScript Variables and Syntax.
+Variables are containers for storing data which may be declared in five ways namely 
+1. Automatically
+2. Using var
+3. Using let
+4. Using const

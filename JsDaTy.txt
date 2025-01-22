@@ -1,0 +1,10 @@
+JavaScript Data Types
+JavaScript variables can hold numbers like 100 and text values like "John Doe".
+
+In programming, text values are called text strings.
+
+JavaScript can handle many types of data namely: numbers and strings and many others.
+
+Strings are written inside double or single quotes. Numbers are written without quotes.
+
+If a number is put in quotes, it will be treated as a text string.
